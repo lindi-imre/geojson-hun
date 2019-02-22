@@ -1,0 +1,10 @@
+﻿{
+    "type":"Feature",
+    "geometry": {
+        "type":"Point",
+        "coordinates": [48.40906,22.17614]
+    }
+    "properties": {
+        "name": "Záhony"
+    }
+}

@@ -1,10 +1,20 @@
 ﻿{
-    "type":"Feature",
-    "geometry": {
-        "type":"Point",
-        "coordinates": [48.40906,22.17614]
-    }
-    "properties": {
-        "name": "Záhony"
-    }
+    "type": "FeatureCollection",
+    "features": [{
+        "type":"Feature",
+        "geometry": {
+            "type":"Point",
+            "coordinates": [22.17614,48.40906]
+        },
+        "properties": {
+            "name": "Záhony"
+        }}, {
+        "type":"Feature",
+        "geometry": {
+            "type":"Point",
+            "coordinates": [20.13333,47.26667]
+        },
+        "properties": {
+            "name": "Zagyvarékás"
+        }}]
 }
